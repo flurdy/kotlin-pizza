@@ -1,0 +1,20 @@
+body {
+   margin: 0.5em 3em;
+   background-color: aquamarine;
+   font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+}
+
+header h1 a,
+header h1 a:visited {
+   text-decoration: none;
+   color: black;
+}
+
+.pizza-name {
+    width: 10em;
+    float: left;
+}
+
+li {
+    padding: 2em;
+}
